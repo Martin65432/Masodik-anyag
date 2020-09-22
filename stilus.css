@@ -10,7 +10,7 @@ html {
 body {
     background-color: #ddffdd;
     /* A body középre zárása. */
-    width: 80%;
+    width: 50%;
     margin: auto;
     padding-top: 50px;
     padding-left: 20px;
@@ -39,5 +39,13 @@ img {
 }
 
 #terkep {
+    float: none;
+    display: block;
     width: 500px;
+    margin: auto;
+}
+.behuz{
+    font-weight: normal;
+text-indent: 50px;
+
 }
